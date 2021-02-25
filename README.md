@@ -14,9 +14,10 @@
 
 ---
 
-엑셀 파일 형식은 A열 타겟 단어, B열 뜻  
-
-![화면 캡처 2021-02-25 214019](https://user-images.githubusercontent.com/59998983/109154963-5d695400-77b2-11eb-9be5-e4d6cf49b634.png)
+### 엑셀 파일 형식은 A열 타겟 단어, B열 뜻  
+    
+![화면 캡처 2021-02-25 214019](https://user-images.githubusercontent.com/59998983/109154963-5d695400-77b2-11eb-9be5-e4d6cf49b634.png)  
+  
 예시 : severely(A열), 엄격하게,심하게(B열)  
 
 ---
