@@ -5,10 +5,11 @@
 ## 1. 원하는 파일을 선택
 암기할 단어들이 입력되어 있는 엑셀 파일을 선택합니다
 
-![화면 캡처 2021-02-25 212227](https://user-images.githubusercontent.com/59998983/109153299-12e6d800-77b0-11eb-975d-9c1d1fab9b60.png)
+![화면 캡처 2021-02-25 214112](https://user-images.githubusercontent.com/59998983/109154977-62c69e80-77b2-11eb-8c2f-8600cbb8fffc.png)
 
-엑셀 파일 형식은 1열 타겟 단어, 2열 뜻
-예시 : severely(1열), 엄격하게,심하게(2열)
+엑셀 파일 형식은 A열 타겟 단어, B열 뜻
+![화면 캡처 2021-02-25 214019](https://user-images.githubusercontent.com/59998983/109154963-5d695400-77b2-11eb-9be5-e4d6cf49b634.png)
+예시 : severely(A열), 엄격하게,심하게(B열)
 
 
 ## 2. 단어를 보고 정답을 유추합니다
